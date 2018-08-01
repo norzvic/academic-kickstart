@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://norzvic.github.io/"
 
 # Title of your site
 title = "Ke Nie"
@@ -236,10 +236,10 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "//twitter.com/norzvic123"
 
-  #[[params.social]]
-   # icon = "google-scholar"
-   # icon_pack = "ai"
-   # link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  [[params.social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
   [[params.social]]
     icon = "github"
