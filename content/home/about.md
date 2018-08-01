@@ -19,17 +19,17 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "MA in Journalism"
-  institution = "Peking University"
+  institution = "Peking University, China"
   year = 2014
 
 [[education.courses]]
   course = "BA in German Literature"
-  institution = "Peking University"
+  institution = "Peking University, China"
   year = 2012
 
 [[education.courses]]
   course = "BA in Economics"
-  institution = "Peking University"
+  institution = "Peking University, China"
   year = 2012
  
 +++
