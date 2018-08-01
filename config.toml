@@ -242,14 +242,14 @@ enableGitInfo = false
     link = "//instagram.com/norzvic/"
 
   [[params.social]]
-    icon = "douban"
+    icon = "music"
     icon_pack = "fa"
-    link = "//douban.com/people/norzvic/"
+    link = "https://i.xiami.com/jimiproject"
     
   [[params.social]]
-    icon = "blogger"
+    icon = "wordpress"
     icon_pack = "fa"
-    link = "http://songofdionysus.com/"
+    link = "https://songofdionysus.com/"
     
   [[params.social]]
     icon = "github"
