@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Sociology of Culture",
     "Political Economy",
-    "Art Censorship and Cultural Production"
+    "Art Censorship and Cultural Production",
     "Sociology of Music"
   ]
 
