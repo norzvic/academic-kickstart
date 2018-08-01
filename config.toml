@@ -54,7 +54,7 @@ enableGitInfo = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "classic"
+  font = "playfair"
 
   # Your details.
   name = "Ke Nie"
@@ -210,7 +210,7 @@ enableGitInfo = false
 
   # Social/Academic Networking
   #
-  # Icon pack "fa" includes the following social network icons:
+  # pack "fa" includes the following social network icons:
   #
   #   twitter, weibo, linkedin, github, facebook, pinterest, google-plus,
   #   youtube, instagram, soundcloud
