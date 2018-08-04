@@ -69,7 +69,7 @@ enableGitInfo = false
   email = "knie@ucsd.edu"
   address = "Room 431, Social Science Building, UCSD"
   office_hours = "Email for appointment"
-  phone = "+1 858-261-1387"
+  phone = ""
   skype = ""
   telegram = ""
 
@@ -320,3 +320,18 @@ enableGitInfo = false
 # Configure the English version of the website.
 [Languages.en]
   languageCode = "en-us"
+[languages.zh]
+  languageCode = "zh-cn"
+  name = "聂可"
+  role = "社会学博士生"
+  organization = "加利福尼亚大学圣迭戈分校"
+  organization_url = ""
+  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+  avatar = "nieke.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "knie@ucsd.edu"
+  address = "社会科学大楼(Social Science Building)431办公室, UCSD"
+  office_hours = ""
+  phone = ""
+  wechat = ""
+  skype = ""
+  telegram = ""
