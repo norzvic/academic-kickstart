@@ -1,5 +1,6 @@
 +++
-# Projects widget.
+# Work in progress widget.
+# This widget displays recent publications from `content/workinprogress/`.
 widget = "projects"
 active = true
 date = 2016-04-20T00:00:00
@@ -10,36 +11,27 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 20
 
-# Content.
-# Display content from the following folder.
-# For example, `folder = "project"` displays content from `content/project/`.
-folder = "workinprogress"
+# Number of publications to list.
+count = 10
 
-# View.
-# Customize how projects are displayed.
-# Legend: 0 = list, 1 = cards.
-view = 0
+# List format.
+#   0 = Simple
+#   1 = Detailed
+#   2 = APA
+#   3 = MLA
+list_format = 3
 
-# Filter toolbar.
+# Filter by publication type.
+# -1: Any
+#  0: Uncategorized
+#  1: Conference proceedings
+#  2: Journal
+#  3: Work in progress
+#  4: Technical report
+#  5: Book
+#  6: Book chapter
+publication_type = "-1"
 
-# Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
-filter_default = 0
-
-# Add or remove as many filters (`[[filter]]` instances) as you like.
-# To show all items, set `tag` to "*".
-# To filter by a specific tag, set `tag` to an existing tag name.
-# To remove toolbar, delete/comment all instances of `[[filter]]` below.
-# [[filter]]
-#   name = "All"
-#   tag = "*"
-#
-# [[filter]]
-#   name = "Deep Learning"
-#   tag = "Deep Learning"
-#
-# [[filter]]
-#   name = "Other"
-#   tag = "Demo"
-
+# Exclude publications that are shown in the Selected Publications widget?
+exclude_selected = false
 +++
-
