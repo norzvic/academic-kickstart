@@ -12,10 +12,10 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "文化社会学",
-    "政治经济学",
-    "政治与艺术审查",
-    “音乐社会学”
+    "abcd",
+    "efc",
+    "123",
+    “ddd”
   ]
 
 # List your qualifications (such as academic degrees).
