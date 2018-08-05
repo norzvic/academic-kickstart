@@ -293,7 +293,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Talks"
-  url = "#posts"
+  url = "#talk"
   weight = 4
 
 [[menu.main]]
@@ -324,14 +324,15 @@ enableGitInfo = false
   languageCode = "zh-cn"
   name = "聂可"
   role = "社会学博士生"
-  organization = "加利福尼亚大学圣迭戈分校"
+  organization = "加州大学圣迭戈分校"
   organization_url = ""
-  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "nieke.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  gravatar = false
+  avatar = "nieke.jpg"
   email = "knie@ucsd.edu"
-  address = "社会科学大楼(Social Science Building)431办公室, UCSD"
+  address = "社会科学大楼（Social Science Building）431办公室，UCSD"
   office_hours = ""
   phone = ""
   wechat = ""
   skype = ""
   telegram = ""
+
