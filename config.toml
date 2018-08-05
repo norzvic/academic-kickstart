@@ -283,7 +283,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Projects"
-  url = "#projects"
+  url = "#workinprogress"
   weight = 2
 
 [[menu.main]]
