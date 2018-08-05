@@ -6,7 +6,7 @@ time_start = 2018-08-11
 time_end = 2018-08-15
 abstract = ""
 abstract_short = ""
-event = "Shanghai University"
+event = "Shanghai University, China"
 event_url = ""
 location = "Shanghai, China"
 
