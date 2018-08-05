@@ -293,7 +293,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Talks"
-  url = "#talk"
+  url = "#talks"
   weight = 4
 
 [[menu.main]]
