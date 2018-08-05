@@ -14,7 +14,9 @@ subtitle = ""
 weight = 30
 
 +++
+**Upcoming:**
 
-Winter 2018 (Upcoming)
+Winter 2018
 
 SOG100 Classic Sociological Theory (4)
+
