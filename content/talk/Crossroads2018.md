@@ -2,8 +2,8 @@
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 
 title = "Association for Cultural Studies Crossroads Conference 2018"
-time_start = 2018-08-11T00:00:00
-time_end = 2018-08-15T23:00:00
+time_start = 2018-08-11
+time_end = 2018-08-15
 abstract = ""
 abstract_short = ""
 event = "Shanghai University"
