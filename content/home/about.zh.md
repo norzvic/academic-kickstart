@@ -5,15 +5,15 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Order that this section will appear in.
-weight = 1
+weight = 5
 
 # List your academic interests.
 [interests]
   interests = [
-    "abcd",
-    "efc",
-    "123",
-    “ddd”
+    "文化社会学",
+    "政治经济学",
+    "艺术审查与文化生产",
+    "音乐社会学"
   ]
 
 # List your qualifications (such as academic degrees).
