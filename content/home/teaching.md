@@ -15,5 +15,6 @@ weight = 30
 
 +++
 
-# Winter 2018 (Upcoming)
-## SOG100 Classic Sociological Theory (4)
+Winter 2018 (Upcoming)
+
+SOG100 Classic Sociological Theory (4)
