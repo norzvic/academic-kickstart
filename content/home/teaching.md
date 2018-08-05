@@ -13,8 +13,9 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 60
 
+# Folder
+folder = "teaching"
 +++
 
 **Upcoming:**
-Winter Quarter, Year 2018-2019
-SOC100 Classical Sociological Theory (4)
+
