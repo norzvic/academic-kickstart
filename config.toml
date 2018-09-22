@@ -242,9 +242,9 @@ enableGitInfo = false
     link = "//instagram.com/norzvic/"
 
   [[params.social]]
-    icon = "music"
+    icon = "soundcloud"
     icon_pack = "fa"
-    link = "https://i.xiami.com/jimiproject"
+    link = "https://soundcloud.com/keniejimiproject/"
     
   [[params.social]]
     icon = "wordpress"
