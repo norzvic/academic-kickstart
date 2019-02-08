@@ -11,8 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Sociology of Culture",
-    "Political Economy",
-    "Art Censorship and Cultural Production",
+    "Economic Sociology",
+    "Market of cultural production and consumption",
+    "Art Censorship",
     "Sociology of Music"
   ]
 
@@ -36,4 +37,4 @@ weight = 5
 
 # Biography
 
-Ke Nie is a doctoral student at University of California, San Diego, whose research interests lie in the intersection of sociology of culture and policial economy. He is recently studying how economic conditions and political practices affect the form and content of cultural products. Before joining the doctoral program at UCSD, he worked as a journalist and an avocational musician in China.
+Ke Nie is a doctoral student at University of California, San Diego, whose research interests lie in the intersection of sociology of culture and economic sociology. where he focuses on the market of cultural production and consumption. He is recently studying how economic conditions and political practices affect the form and content of cultural products. Before joining the doctoral program at UCSD, he worked as a journalist and an avocational musician in China.
