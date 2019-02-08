@@ -7,16 +7,14 @@ active = true
 date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Teaching"
+title = "Teaching & Research Assistance"
 subtitle = ""
 
 # Order that this section will appear in.
 weight = 30
 
 +++
-**Upcoming:**
+Fiscal Democracy Project (directed by Prof. Isaac W. Martin), Research Assistant, FA 18/19
+Economy & Society (instructed by Prof. Juan Pablo Pardo-Guerra), Teaching Assistant, WI 18/19
 
-Winter 2018
-
-SOG100 Classic Sociological Theory (4)
 
