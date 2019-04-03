@@ -19,4 +19,5 @@ Fiscal Democracy Project (directed by Prof. Isaac W. Martin), Research Assistant
 
 Economy & Society (instructed by Prof. Juan Pablo Pardo-Guerra), Teaching Assistant, WI 18-19
 
+Social Inequality & Policy (instructed by Prof. Matthew Bergman), Teaching Assistant, SP 18-19
 
