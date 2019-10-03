@@ -13,12 +13,7 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 30
 
+# Folder? #
+folder = teaching
 +++
 
-abcSixth College Writing Program: Culture, Art, and Technology, Teaching Assistant, 19-20
-
-Fiscal Democracy Project (directed by Prof. Isaac W. Martin), Research Assistant, FA 18-19
-
-Economy & Society (instructed by Prof. Juan Pablo Pardo-Guerra), Teaching Assistant, WI 18-19
-
-Social Inequality & Policy (instructed by Prof. Matthew Bergman), Teaching Assistant, SP 18-19
