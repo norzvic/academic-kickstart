@@ -23,22 +23,22 @@ view = 0
 # Filter toolbar.
 
 # Default filter index (e.g. 0 corresponds to the first `[[filter]]` instance below).
-#filter_default = 0
+# filter_default = 0
 
 # Add or remove as many filters (`[[filter]]` instances) as you like.
 # To show all items, set `tag` to "*".
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
-#[[filter]]
+# [[filter]]
   #name = "All"
   #tag = "*"
 
-#[[filter]]
-  #name = "Deep Learning"
-  #tag = "Deep Learning"
+# [[filter]]
+  # name = "Deep Learning"
+  # tag = "Deep Learning"
 
-#[[filter]]
-  #name = "Other"
-  #tag = "Demo"
+# [[filter]]
+  # name = "Other"
+  # tag = "Demo"
 
 +++
