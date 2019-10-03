@@ -246,15 +246,15 @@ enableGitInfo = false
     icon_pack = "fa"
     link = "https://soundcloud.com/keniejimiproject/"
     
-  [[params.social]]
-    icon = "wordpress"
-    icon_pack = "fa"
-    link = "https://songofdionysus.com/"
+  #[[params.social]]
+    #icon = "wordpress"
+    #icon_pack = "fa"
+    #link = "https://songofdionysus.com/"
     
-  [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/norzvic"
+  #[[params.social]]
+    #icon = "github"
+    #icon_pack = "fa"
+    #link = "//github.com/norzvic"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
