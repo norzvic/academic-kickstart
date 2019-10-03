@@ -37,4 +37,4 @@ weight = 5
 
 # Biography
 
-Ke Nie is a doctoral student in sociology at University of California, San Diego, who studies sociology of culture, economic sociology, and political sociology. Specifically, his research focuses on cultural market and cultural policy. He is recently working on projects regarding how economic/political institutions and policies affect the production and consumption of cultural artifacts. Before joining the doctoral program at UCSD, he was a journalist and musician in China.
+Ke Nie is a doctoral student in sociology at University of California, San Diego, who studies sociology of culture, economic sociology, and political sociology. Specifically, his research focuses on cultural market and cultural policy. He is recently working on projects regarding how economic/political institutions and policies affect the production and consumption of cultural artifacts. Before joining the doctoral program at UCSD, he was a journalist and an amateur musician in China.
