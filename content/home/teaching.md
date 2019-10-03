@@ -2,7 +2,7 @@
 # Custom widget.
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
-widget = "custom"
+widget = "talks"
 active = true
 date = 2016-04-20T00:00:00
 
@@ -13,13 +13,12 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 30
 
+# List format.
+#   0 = Simple
+#   1 = Detailed
+list_format = 0
+
 +++
 
-Sixth College Writing Program: Culture, Art, and Technology, Teaching Assistant, 19-20
 
-Fiscal Democracy Project (directed by Prof. Isaac W. Martin), Research Assistant, FA 18-19
-
-Economy & Society (instructed by Prof. Juan Pablo Pardo-Guerra), Teaching Assistant, WI 18-19
-
-Social Inequality & Policy (instructed by Prof. Matthew Bergman), Teaching Assistant, SP 18-19
 
