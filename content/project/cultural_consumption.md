@@ -3,13 +3,13 @@
 date = 2016-04-27T00:00:00
 
 # Project title.
-title = "123"
+title = "as44v"
 
 # Project summary to display on homepage.
-summary = "979797"
+summary = "asdf"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-# image_preview = "bubbles.jpg"
+image_preview = ""
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -22,9 +22,9 @@ external_link = ""
 math = false
 
 # Optional featured image (relative to `static/img/` folder).
-# [header]
-# image = "headers/bubbles-wide.jpg"
-# caption = "My caption :smile:"
+[header]
+image = ""
+caption = ""
 
 +++
 
