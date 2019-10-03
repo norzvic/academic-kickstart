@@ -15,7 +15,7 @@ weight = 30
 
 +++
 
-Sixth College Writing Program: Culture, Art, and Technology, Teaching Assistant, 19-20
+abcSixth College Writing Program: Culture, Art, and Technology, Teaching Assistant, 19-20
 
 Fiscal Democracy Project (directed by Prof. Isaac W. Martin), Research Assistant, FA 18-19
 
