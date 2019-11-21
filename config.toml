@@ -277,8 +277,8 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Works"
+  url = "#publication"
   weight = 2
 
 #[[menu.main]]
