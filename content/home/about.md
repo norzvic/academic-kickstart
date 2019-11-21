@@ -14,6 +14,7 @@ weight = 5
     "Economic Sociology",
     "Political Sociology",
     "Computational Social Science",
+    "Organizations",
     "Sociology of Music"
   ]
 
