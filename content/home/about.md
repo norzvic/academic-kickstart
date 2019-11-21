@@ -13,7 +13,7 @@ weight = 5
     "Sociology of Culture",
     "Economic Sociology",
     "Political Sociology",
-    "Organizations",
+    "Computational Social Science",
     "Sociology of Music"
   ]
 
@@ -37,4 +37,4 @@ weight = 5
 
 # Biography
 
-Ke Nie is a doctoral student in sociology at University of California, San Diego, who studies sociology of culture, economic sociology, and political sociology. Specifically, his research focuses on cultural market and cultural policy. He is recently working on projects regarding how economic/political institutions and policies affect the production and consumption of cultural artifacts. Before joining the doctoral program at UCSD, he was a journalist and an amateur musician in China.
+Ke Nie is a doctoral student in sociology at University of California, San Diego, who studies sociology of culture, economic sociology, and political sociology. Specifically, he uses both quantitative and qualitative methods to study cultural market and cultural policy. He is recently working on projects regarding how economic/political institutions and policies affect the production and consumption of cultural artifacts. Before joining the doctoral program at UCSD, he was a journalist and an amateur musician in China.
