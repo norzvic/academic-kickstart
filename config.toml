@@ -235,6 +235,11 @@ enableGitInfo = false
     icon = "facebook"
     icon_pack = "fa"
     link = "//facebook.com/ke.nie.37"
+    
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/keniesoc"
 
   [[params.social]]
     icon = "instagram"
