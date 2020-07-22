@@ -18,7 +18,7 @@ weight = 30
 
 Sixth College Writing Program: Culture, Art, and Technology, Teaching Assistant, 19-20
 
-*Outstanding TA of the Year Award*
+- *Outstanding TA of the Year Award*
 
 Fiscal Democracy Project (directed by Prof. Isaac W. Martin), Research Assistant, FA 18-19
 
