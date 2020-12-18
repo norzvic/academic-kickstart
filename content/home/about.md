@@ -20,18 +20,23 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
+  course = "MA in Sociology"
+  institution = "University of California, San Diego"
+  year = 2020
+
+[[education.courses]]
   course = "MA in Journalism"
-  institution = "Peking University, China"
+  institution = "Peking University"
   year = 2014
 
 [[education.courses]]
   course = "BA in German Literature"
-  institution = "Peking University, China"
+  institution = "Peking University"
   year = 2012
 
 [[education.courses]]
   course = "BA in Economics"
-  institution = "Peking University, China"
+  institution = "Peking University"
   year = 2012
  
 +++
